@@ -6,11 +6,11 @@ This Repository contains solutions to DSA and OOPs questions, organised into fol
 ### Week 1
 
 * Day 1 - questions
-* Day 2
-* Day 3
-* Day 4
-* Day 5
-* OOPs
+* Day 2 - questions
+* Day 3 - questions
+* Day 4 - questions
+* Day 5 - questions
+* OOPs - questions
 
 ### Week 2
 
