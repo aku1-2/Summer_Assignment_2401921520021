@@ -1,3 +1,6 @@
+#Name:- Akanksha Giri
+#Branch: CSE(AI)
+
 # Summer Assignment
 This Repository contains solutions to DSA and OOPs questions, organised into folders by day.
 
