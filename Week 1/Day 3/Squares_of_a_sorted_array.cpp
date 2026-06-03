@@ -1,6 +1,6 @@
 /*
 Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
-Time Complexity:- O(n logn) sort function dominates loop O(n)
+Time Complexity:- O(n log n) sort function dominates loop O(n)
 Space Complexity:- O(n) vector v
 */
 
